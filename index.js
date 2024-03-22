@@ -9,7 +9,7 @@ console.log('commit 7');
 console.log('commit 8');
 console.log('commit 9');
 console.log('commit 10');
-
+console.log('ကောမစ်တစ်ခုထပ်လုပ်လိုက်');
 
 
 
