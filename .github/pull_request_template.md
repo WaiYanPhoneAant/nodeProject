@@ -1,10 +1,5 @@
-## Describe your changes
+# Description
+[Describe the changes introduced by this PR in detail. Include any relevant context, background, or reasoning behind the changes.]
 
-## Issue ticket number and link
-
-## Checklist before requesting a review
-- [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
-- [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
-
+## Change Note
+[Provide a summary of the changes made in this PR. This can include new features, bug fixes, improvements, or any other modifications.]
