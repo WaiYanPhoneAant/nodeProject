@@ -1,9 +1,9 @@
-name: test Workflow
+name: test for new branch Workflow
 
 on:
   push:
     branches:
-      - main
+      - newbranch
 
 jobs:
   build:
