@@ -2,8 +2,7 @@ name: Node.js Simple Workflow
 
 on:
   push:
-    branches:
-      - main
+    
 
 jobs:
   build:
