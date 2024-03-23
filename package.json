@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "hello",
-    "start":"node index.js"
+    "start":"node indexx.js"
   },
   "keywords": [],
   "author": "",
