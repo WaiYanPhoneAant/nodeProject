@@ -1,4 +1,4 @@
-name: Node.js Simple Workflow
+name: test Workflow
 
 on:
   push:
