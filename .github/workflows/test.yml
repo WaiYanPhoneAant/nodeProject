@@ -20,3 +20,6 @@ jobs:
 
     - name: Display message
       run: npm test
+
+    - name: run buile
+      run: npm run build
