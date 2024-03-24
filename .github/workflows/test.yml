@@ -21,5 +21,5 @@ jobs:
     - name: Display message
       run: npm test
 
-    - name: run buile
+    - name: run build
       run: npm run build
