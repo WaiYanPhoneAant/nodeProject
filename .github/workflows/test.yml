@@ -1,9 +1,9 @@
-name: test Workflow
+name: test for new branch Workflow
 
 on:
   push:
     branches:
-      - main
+      - newbranch
 
 jobs:
   build:
@@ -21,5 +21,5 @@ jobs:
     - name: Display message
       run: npm test
 
-    - name: run buile
+    - name: run build
       run: npm run build
